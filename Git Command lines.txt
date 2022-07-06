@@ -1,0 +1,28 @@
+git push commands:
+
+
+1) git init ---- Initializing the folder
+2) git status --- check the status
+3) git add . ---- to add all the files
+4) git commit -m "comments" --- to commit the code
+5) git branch -m main --- to change the branch
+6) git remote add origin URI path --- to clone the project to the URI path
+7) git push -u origin main ---- to push the code in remote repository (GIT HUB)
+
+
+
+----------------------------------------------------------------------------------
+
+Git Pull commands:
+
+1) pwd --- check where the present working directory is in
+2) mkdir file name(git.demo) ----- to create a folder
+3) cd /C/Users/USER/git.demo ---- to change the directory to the specified path (/C/Users/USER/git.demo)
+4) git init --- to initialize
+5) git pull specify the URI path --- to pull the code from remote repository
+6) git status --- check the status
+7)git add . ---- to add all the files
+8)git commit -m "comments" --- to commit the code
+9) git branch -m main --- to change the branch
+10) git remote add origin URI path --- to clone the project to the URI path
+11) git push -u origin main ---- to push the code in remote repository (GIT HUB)
